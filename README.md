@@ -1,3 +1,4 @@
-Ćwiczenia Docker & Kubernetes
+Excercises Docker & Kubernetes
 
-Kurs z Udemy.com - https://www.udemy.com/course/docker-kubernetes-the-practical-guide/
+Course from Udemy.com - https://www.udemy.com/course/docker-kubernetes-the-practical-guide/
+ 
